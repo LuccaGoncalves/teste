@@ -1,6 +1,6 @@
 tabuleiro = [['_', '_', '_'], ['_', '_', '_'], ['_', '_', '_']]
 turnos = 0
-print('Levando em consideração as posições abaixo:')
+print('Levando em consideração as posições abaixo :')
 print('\n L0 C0 | L0 C1 | L0 C2 ')
 print(f'{"_"*7}|{"_"*7}|{"_"*7}\n L1 C0 | L1 C1 | L1 C2 ')
 print(f'{"_"*7}|{"_"*7}|{"_"*7}\n L2 C0 | L2 C1 | L2 C2 \n{" "*7}|{" "*7}|{" "*7}\n')
